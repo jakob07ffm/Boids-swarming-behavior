@@ -7,3 +7,6 @@ This is a simple Boids simulation implemented using Python and Pygame. Boids are
 - **Separation**: Boids steer to avoid crowding their neighbors.
 - **Alignment**: Boids steer towards the average heading of their neighbors.
 - **Cohesion**: Boids steer to move towards the average position of their neighbors.
+
+
+![](boids_screenshot.JPG)
